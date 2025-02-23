@@ -1,11 +1,11 @@
-# Olá 👋 me chamo Felipe Morales!
-Iniciante na área da programação, criando projetos como front-end.
+# Hello 👋 I am Felipe Morales!
+I'm a beginner in programming, creating projects as a front-end developer.
 
-👨🏽‍💻 Estudante de **Engenharia de Software**. <br>
-✍🏽 Desenvolvendo sites utilizando **HTML** e **CSS** - Utilizo **Git**, anlogamente ao *Github*. <br>
-🧩 No momento aprendendo **JavaScript**, tenho base em conteúdos de **Python**.
+👨🏽‍💻 **Software Engineering** student. <br>
+✍🏽 Developing websites using **HTML** and **CSS** - I'm using **Git** in my projects and also *Github*. <br>
+🧩 Currently learning **JavaScript**. I have learned the basics of **Python**.
 
-### No momento estou mais focado em:
+### At the moment, I'm more focused on:
 <br>
 <div display="inline">
 <img width='45' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
