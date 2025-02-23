@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá 👋 me chamo Felipe Morales!
+Iniciante na área da programação, criando projetos como front-end.
 
-<!--
-**FMoralesDev/FMoralesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏽‍💻 Estudante de **Engenharia de Software**. <br>
+✍🏽 Desenvolvendo sites utilizando **HTML** e **CSS** - Utilizo **Git**, anlogamente ao *Github*. <br>
+🧩 No momento aprendendo **JavaScript**, tenho base em conteúdos de **Python**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### No momento estou mais focado em:
+<br>
+<div display="inline">
+<img width='45' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img width='45' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img width='45' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+<img width='45' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+</div>
