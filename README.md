@@ -1,8 +1,8 @@
 # Hello 👋 I am Felipe Morales!
-I'm a beginner in programming, creating projects as a front-end developer.
+I'm creating projects as a Full Stack developer. I'm learning and practicing every day.
 
-👨🏽‍💻 **Software Engineering** student. <br>
-✍🏽 Developing websites using **HTML** and **CSS** - I'm using **Git** in my projects and also *Github*. <br>
+👨🏽‍💻 **Software Engineering** student at College. <br>
+✍🏽 Developing websites using **HTML**, **CSS** & **Git** <br>
 🧩 Currently learning **Java**. I have learned the basics of **Python** & **JavaScript**.
 
 ### At the moment, I'm more focused on:
